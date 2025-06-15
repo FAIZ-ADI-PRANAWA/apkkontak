@@ -1,6 +1,6 @@
 # apkkontak
 
-A new Flutter project.
+Aplikasi Kontak Sederhana berbasis Flutter untuk menampilkan dan mengelola daftar kontak dengan mengambil data dari web service berbasis JSON.
 
 ## Getting Started
 
